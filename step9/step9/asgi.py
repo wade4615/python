@@ -1,5 +1,5 @@
 """
-ASGI config for step9 project.
+ASGI step9 for step9 project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

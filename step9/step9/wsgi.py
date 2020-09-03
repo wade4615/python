@@ -1,5 +1,5 @@
 """
-WSGI config for step9 project.
+WSGI step9 for step9 project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
